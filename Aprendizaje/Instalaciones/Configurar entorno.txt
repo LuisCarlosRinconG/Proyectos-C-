@@ -1,0 +1,11 @@
+1) Crear y abrir una carpeta contenedora del proyecto
+2) Abrir una terminal y ejecutar:
+  dotnet new console -o ./CsharpProjects/TestProject
+  Este comando es una plantilla de programa de .NET para crear un nuevo proyecto de aplicación de consola de C# 
+  en la ubicación de carpeta especificada. El comando crea las carpetas CsharpProjects y TestProject y con
+  TestProject como nombre del archivo .Csproj
+3) Click derecho a TestProject.csproj y dar en abrir terminal integrada
+4) Para ejecutar una compilación de la aplicación, escriba el siguiente comando en el simbolo del sistema del terminal 
+  dotnet buid
+5) Para ejecutar la aplicación, escriba el siguiente comando en el simbolo de sistema de la terminal:
+  dotnet run
