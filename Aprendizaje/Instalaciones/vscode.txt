@@ -1,0 +1,13 @@
+1) Instalar la extencisón de vs code:
+  - kit de desarrollo de C#
+  - intellicode for C# Dev Kit
+2) en el menu vista seleccione la paeta de comandos; Escrie .net:instalar y luego seleccione
+    .NET: instalar el nuevo SDK de .NET
+3) Click en instalar
+4) esperar que se descargue y cerrar vscode
+5) Comprobar instalación
+      - Abra vscode
+      - Abra la terminal
+      - escriba dotnet --version y ejecute
+      - Debe aparecer el número de la versión
+      - Finalizado.
